@@ -63,7 +63,11 @@ Research-driven analysis identifying which page-level features are most associat
 ### 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Amjad007&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://ghchart.rshah.org/Muhammad-Amjad007" alt="Muhammad Amjad's GitHub chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Amjad007&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Amjad007" alt="GitHub Streak" height="165"/>
 </p>
 
