@@ -13,7 +13,7 @@ Information Technology student interested in data analytics, business intelligen
 
 I enjoy transforming complex data into clear insights, useful reports, and decision-ready solutions while expanding my knowledge of Microsoft Azure and modern data platforms.
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/m-amjad-981b892b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcCk0zk3oSWiorFOJMF3CSg%3D%3D">
   <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
