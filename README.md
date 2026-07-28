@@ -1,30 +1,78 @@
-<div align="center">
+<h1 align="center">Muhammad Amjad</h1>
+<h3 align="center">Data Analyst | Business Intelligence & Cloud-Driven Analytics</h3>
 
-# Hi, I'm Muhammad Amjad 👋
+<p align="center">
+Information Technology student building a career in data analytics — combining statistics,
+visualization, machine learning fundamentals, and cloud engineering practices to turn raw
+data into decisions that matter.
+</p>
 
-### Data, AI & Cloud Analytics Enthusiast
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Turning+Data+into+Meaningful+Insights;Exploring+AI%2C+Automation+and+Cloud+Analytics;Building+Practical+Data-Driven+Solutions"
-  alt="Typing introduction"
-/>
-
-Information Technology student interested in data analytics, business intelligence, AI-assisted workflows, automation, and cloud technologies.
-
-I enjoy transforming complex data into clear insights, useful reports, and decision-ready solutions while expanding my knowledge of Microsoft Azure and modern data platforms.
-
-<a href="https://www.linkedin.com/in/m-amjad-981b892b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcCk0zk3oSWiorFOJMF3CSg%3D%3D">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+<a href="https://www.linkedin.com/in/m-amjad-981b892b2b2">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
-## About Me
+### 🎯 Professional Summary
 
-- 📊 Interested in data analytics and business intelligence
-- 🤖 Exploring AI-assisted analysis and intelligent automation
-- ☁️ Developing knowledge of Microsoft Azure and cloud analytics
-- ⚙️ Learning modern data pipelines and reporting workflows
-- 🌱 Continuously improving through practical projects
+Aspiring data analyst focused on end-to-end analytics: cleaning and exploring data, building interactive dashboards, and applying machine learning fundamentals. Currently expanding into cloud data engineering (Azure) and CI/CD practices (Azure Pipelines, Docker, Git) to build production-ready, industry-standard analytics workflows.
+
+---
+
+### 🧠 Core Competencies
+
+| Area | Skills |
+|---|---|
+| **Data Analysis** | Python, SQL, Pandas, EDA, statistical analysis |
+| **Visualization & BI** | Power BI, Tableau, Excel, dashboard design, insight storytelling |
+| **Machine Learning** | PyTorch fundamentals, scikit-learn, predictive modeling basics |
+| **Cloud & DevOps** | Microsoft Azure, Azure Pipelines, Docker, Git/GitHub Actions, CI/CD workflows |
+| **Automation & AI** | AI-assisted analysis, workflow automation |
+
+---
+
+### 🚀 Featured Projects
+
+**[📊 Data Careers Power BI Dashboard](https://github.com/Muhammad-Amjad007/Data-Analytics)**
+Interactive Power BI dashboard built from an Excel dataset analyzing the data-careers job market — linking salary, education, and role with career satisfaction and growth, plus insights on remote work and workforce diversity.
+`Excel` `Power BI` `Data Visualization`
+
+**[🔍 Google Search Ranking & Discoverability Capstone](https://github.com/Muhammad-Amjad007/ML-internship-template)**
+Research-driven analysis identifying which page-level features are most associated with stronger Google search rankings, delivered as a reproducible Jupyter Notebook pipeline with published results.
+`Python` `Jupyter Notebook` `Data Research`
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Amjad007&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Amjad007" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Amjad007&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+Open to opportunities and collaboration in data analytics — feel free to explore my repositories, connect on [LinkedIn](https://www.linkedin.com/in/m-amjad-981b892b2b2), or reach out through GitHub.
