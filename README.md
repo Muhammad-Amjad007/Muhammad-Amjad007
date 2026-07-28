@@ -28,4 +28,3 @@ I enjoy transforming complex data into clear insights, useful reports, and decis
 - ☁️ Developing knowledge of Microsoft Azure and cloud analytics
 - ⚙️ Learning modern data pipelines and reporting workflows
 - 🌱 Continuously improving through practical projects
-- 📍 Based in Karachi, Pakistan
