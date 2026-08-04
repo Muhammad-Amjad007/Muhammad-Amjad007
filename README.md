@@ -8,7 +8,7 @@ data into decisions that matter.
 </p>
 
 <p align="center">
-<a href="linkedin.com/in/m-amjad-981b892b2">
+<a href="https://www.linkedin.com/in/m-amjad-981b892b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgXi%2FyyLST9uVfayxftfNog%3D%3D">
 <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
