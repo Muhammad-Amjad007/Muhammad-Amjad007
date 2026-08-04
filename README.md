@@ -62,4 +62,4 @@ Research-driven analysis identifying which page-level features are most associat
 
 ### 📫 Connect With Me
 
-Open to opportunities and collaboration in data analytics — feel free to explore my repositories, connect on [LinkedIn](linkedin.com/in/m-amjad-981b892b2), or reach out through GitHub.
+Open to opportunities and collaboration in data analytics — feel free to explore my repositories, connect on [LinkedIn](https://www.linkedin.com/in/m-amjad-981b892b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgXi%2FyyLST9uVfayxftfNog%3D%3D), or reach out through GitHub.
