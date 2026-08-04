@@ -8,7 +8,7 @@ data into decisions that matter.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/m-amjad-981b892b2b2">
+<a href="linkedin.com/in/m-amjad-981b892b2">
 <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
@@ -62,4 +62,4 @@ Research-driven analysis identifying which page-level features are most associat
 
 ### 📫 Connect With Me
 
-Open to opportunities and collaboration in data analytics — feel free to explore my repositories, connect on [LinkedIn](https://www.linkedin.com/in/m-amjad-981b892b2b2), or reach out through GitHub.
+Open to opportunities and collaboration in data analytics — feel free to explore my repositories, connect on [LinkedIn](linkedin.com/in/m-amjad-981b892b2), or reach out through GitHub.
